@@ -1,0 +1,62 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(116, 168, 118);
+    overflow: hidden;
+}
+
+.titulo {
+    background-image: linear-gradient(90deg, rgb(116, 168, 118), rgb(132, 235, 146), rgb(132, 235, 146), rgb(116, 168, 118));
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.button {
+    width: 24pc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(188, 235, 188);
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    margin-left: 35.5pc;
+    margin-right: 35.5pc;
+    margin-top: 3pc;
+    margin-bottom: 3pc;
+    border-radius: 1pc;
+    height: 3pc;
+    box-shadow: 5px 5px 5px 5px #0000007c;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: rgb(178, 190, 190);
+    box-shadow: 3px 3px 3px 3px;
+}
+
+.buttons {
+    background-image: linear-gradient(90deg, rgb(116, 168, 118), rgb(107, 158, 95), rgb(107, 158, 95), rgb(116, 168, 118));
+    width: 70pc;
+}
+
+.bottom {
+    background-image: linear-gradient(100deg, rgb(116, 168, 118), rgb(132, 235, 146), rgb(116, 168, 118));
+    height: 8.4pc;
+    text-align: center;
+}
+
+.noticia1 {
+    background-color: rgb(241, 224, 224);
+    padding: 50px;
+}
+
+.imagem-noticia1 {
+    width: 90pc;
+    height: 25pc;
+}
+
+.video {
+    margin-right: 25pc;
+    margin-left: 25pc;
+}
